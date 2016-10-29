@@ -1,5 +1,5 @@
 {
-  "name": "node-mocha",
+  "name": "hi",
   "version": "1.0.0",
   "description": "## Overview",
   "main": "test.js",
@@ -18,6 +18,10 @@
   "homepage": "https://github.com/learn-co-curriculum/node-mocha#readme",
   "devDependencies": {
     "chai": "^3.5.0",
-    "mocha": "^2.4.5"
-  }
+    "mocha": "^2.5.3"
+  },
+  "dependencies": {},
+  "keywords": [
+    "nonya"
+  ]
 }
